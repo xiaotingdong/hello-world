@@ -3,4 +3,7 @@ learn to use github
 
 create a branch
 
-pull request
+
+
+learn to use  pull
+
